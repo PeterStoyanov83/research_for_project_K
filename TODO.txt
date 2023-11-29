@@ -1,0 +1,19 @@
+
+# rename django_peter1 -> backend
+# installing virt-env python -m venv venv
+
+#avtivation - Cd .. venv ( source bin/activate)
+
+# preferences - correct interpreter
+
+# pip install -r requirements.txt
+
+# pip freeze > requirements.txt
+# - database - installation
+
+
+# file ".env"
+
+# google .env installation
+
+
