@@ -55,6 +55,37 @@ Potential for additional authentication methods and notification channels.
 Scalability to multiple locations.
 
 
+--------------------
+
+# Open Questions
+
+## 1. Recurring Reservations
+Setup: How should users set up recurring bookings? What options should be available for frequency (e.g., daily, weekly, monthly)?
+Limitations: Are there any restrictions on the duration or frequency of recurring bookings (e.g., a maximum number of weeks or a limit on consecutive bookings)?
+
+## 2. Conflict Resolution
+Strategies: What specific conflict resolution strategies are preferred? Options could include first-come-first-serve, manual intervention by administrators, or automatic rescheduling suggestions.
+User Notification: How should users be informed about conflicts? What options should they have for resolving these conflicts?
+
+## 3. Participant Management
+Profile Information: What detailed information should be included in participant profiles? This might include personal details, contact information, booking history, and any special requirements.
+Attendance Tracking: What method should be used for tracking attendance? Options could include digital check-in, manual entry, or integration with access control systems.
+
+## 4. Waiting List Management
+Prioritization: How should the waiting list be prioritized? This could be based on first-come-first-served, participant status (e.g., regular vs. new participants), or other criteria.
+Notification and Enrollment: How should participants on the waiting list be notified when a spot becomes available? Should enrollment be automatic or require confirmation?
+
+## 5. Reporting and Documentation
+Report Types: What specific reports are needed (e.g., attendance reports, financial reports, utilization statistics)?
+Export Formats: In what formats should data be exportable? Common formats include CSV, Excel, and PDF. Are there any specific layout or data requirements for these reports?
+
+## 6. Integration with Other Systems
+System Types: What types of systems or databases does the application need to integrate with? This might include CRM systems, financial software, or external databases.
+Integration Requirements: What specific data needs to be shared between systems? This will help determine the complexity of the integration.
+
+## 7. Security Considerations
+Security Standards: Are there specific industry standards or regulatory requirements that the system must adhere to (e.g., GDPR for data protection)?
+Data Protection: What measures are required to protect sensitive data, both in transit and at rest?
 
 
 
