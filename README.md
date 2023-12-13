@@ -1,7 +1,3 @@
-# kiebitz
-Booking/ tracking system 
-
-
 # Detailed Description of the Software
 
 ## 1. Overview
@@ -57,3 +53,13 @@ Compliance with relevant data protection laws.
 ## 11. Future Enhancements
 Potential for additional authentication methods and notification channels.
 Scalability to multiple locations.
+
+
+
+
+
+
+# Tech stack 
+ - Backend: Django , PostgreSQL, Docker (?) 
+ - Front-end : React
+   
