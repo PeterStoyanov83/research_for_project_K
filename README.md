@@ -95,5 +95,19 @@ Data Protection: What measures are required to protect sensitive data, both in t
  - Front-end : React
 
 
+# 14.12 
 
+Eliminated the Person abstract base class in favor of individual attributes in Participant and Lecturer models.
+
+Implemented and updated models: UserMaster, Course, Participant, RoomResource, and Lecturer.
+
+Ensured models are aligned with new specifications, adding fields like location, platform, category, costs, and period of stay.
+
+Created a custom management command script to seed the database with initial test data.
+
+Resolved database migration issues by setting default values for new fields.
+
+Configured Git for the project and set up the connection to the existing GitHub repository.
+
+Addressed git push issues by setting up a new repo.
    
