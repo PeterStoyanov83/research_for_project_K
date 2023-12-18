@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Database Display</title>
+</head>
+<body>
+    <h1>Database Contents</h1>
+
+    <h2>Participants</h2>
+    <ul>
+    {% for participant in participants %}
+        <li>{{ participant.full_name }} - {{ participant.other_field }}</li>
+        <!-- Display other participant fields -->
+    {% endfor %}
+    </ul>
+
+    <!-- Repeat for other models like Lecturer, UserMaster, etc. -->
+    <h2>Lecturers</h2>
+    <ul>
+    {% for lecturer in lecturers %}
+        <li>{{ lecturer.full_name }} - {{ lecturer.other_field }}</li>
+        <!-- Display other lecturer fields -->
+    {% endfor %}
+    </ul>
+
+    <!-- Continue with UserMaster, Course, RoomResource -->
+
+</body>
+</html>
