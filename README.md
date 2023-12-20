@@ -131,3 +131,11 @@ Updated urls.py to include paths for the new database display view and the home 
 
 ## Error Resolution: 
 Addressed various issues, including template not found errors and admin registration conflicts. 
+
+
+# 20.12: 
+
+## Refining  the representation of the existing models : 
+clearing up the representation of data in front-end and correcting some models' logic
+
+
