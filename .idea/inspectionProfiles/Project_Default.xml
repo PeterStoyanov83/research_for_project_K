@@ -4,8 +4,15 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
+<<<<<<< HEAD
           <list size="1">
             <item index="0" class="java.lang.String" itemvalue="typing_extensions" />
+=======
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="lxml" />
+            <item index="1" class="java.lang.String" itemvalue="reportlab" />
+            <item index="2" class="java.lang.String" itemvalue="Pillow" />
+>>>>>>> origin/dev
           </list>
         </value>
       </option>

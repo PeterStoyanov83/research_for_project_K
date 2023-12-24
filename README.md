@@ -93,4 +93,53 @@ Data Protection: What measures are required to protect sensitive data, both in t
 # Tech stack 
  - Backend: Django , PostgreSQL, Docker (?) 
  - Front-end : React
+<<<<<<< HEAD
    
+=======
+
+
+# 14.12 
+
+Eliminated the Person abstract base class in favor of individual attributes in Participant and Lecturer models.
+
+Implemented and updated models: UserMaster, Course, Participant, RoomResource, and Lecturer.
+
+Ensured models are aligned with new specifications, adding fields like location, platform, category, costs, and period of stay.
+
+Created a custom management command script to seed the database with initial test data.
+
+Resolved database migration issues by setting default values for new fields.
+
+Configured Git for the project and set up the connection to the existing GitHub repository.
+
+Addressed git push issues by setting up a new repo.
+
+
+# 18.12: 
+
+## Database Population: 
+Created and emplemented a python script to populate with dummy entries the data base so it can be tested.
+
+## Admin Interface Customization: 
+We created custom admin classes for models like Participant, Lecturer, UserMaster, Course, and RoomResource, enabling detailed data display in the Django admin.
+
+## Database View:
+Developed a view function display_database to render data from all models on a webpage.
+
+## Template Creation: 
+Prepared a display_database.html template for presenting database contents in a web-friendly format.
+
+## URL Configuration: 
+Updated urls.py to include paths for the new database display view and the home page.
+
+## Error Resolution: 
+Addressed various issues, including template not found errors and admin registration conflicts. 
+
+
+# 20.12: 
+
+## Refining  the representation of the existing models : 
+clearing up the representation of data in front-end and correcting some models' logic
+
+
+>>>>>>> origin/dev

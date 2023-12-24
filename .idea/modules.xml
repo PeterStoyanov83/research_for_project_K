@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/proect_infinite_improbability_drive.iml" filepath="$PROJECT_DIR$/.idea/proect_infinite_improbability_drive.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/django_peter1.iml" filepath="$PROJECT_DIR$/.idea/django_peter1.iml" />
+>>>>>>> origin/dev
     </modules>
   </component>
 </project>
