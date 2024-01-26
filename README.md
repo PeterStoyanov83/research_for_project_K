@@ -63,13 +63,13 @@ Scalability to multiple locations.
 Setup: How should users set up recurring bookings? What options should be available for frequency (e.g., daily, weekly, monthly)?
 Limitations: Are there any restrictions on the duration or frequency of recurring bookings (e.g., a maximum number of weeks or a limit on consecutive bookings)?
 
+
 ## 2. Conflict Resolution
 Strategies: What specific conflict resolution strategies are preferred? Options could include first-come-first-serve, manual intervention by administrators, or automatic rescheduling suggestions.
 User Notification: How should users be informed about conflicts? What options should they have for resolving these conflicts?
 
 ## 3. Participant Management
 Profile Information: What detailed information should be included in participant profiles? This might include personal details, contact information, booking history, and any special requirements.
-Attendance Tracking: What method should be used for tracking attendance? Options could include digital check-in, manual entry, or integration with access control systems.
 
 ## 4. Waiting List Management
 Prioritization: How should the waiting list be prioritized? This could be based on first-come-first-served, participant status (e.g., regular vs. new participants), or other criteria.
