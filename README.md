@@ -1,4 +1,7 @@
-This project is done as a research base for a Keibitz project. 
+#This project is done as a research base for The Project_K App. 
+
+Time,recourse and client management tool for Kiebitz Basel. 
+
 
 
 
